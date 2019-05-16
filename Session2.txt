@@ -1,0 +1,133 @@
+How we take user input in python:-
+.................................................................................................
+
+input():- this method is used to take input from users and return data using string pattern.
+
+var = input("message") 
+
+we can type cast data of input() according to datatype.
+
+int():-  this method is used to convert string type data to integer.
+
+num =int(input("enter first number"))
+
+float():- this method is used to convert string type data to float.
+
+num = float(input("enter number"))
+
+str():-  this method is used to convert integer and float type data to String.
+
+..............................................................................................................
+
+output function in Python:-
+
+print():-  this function is used to show output data of python
+
+
+print(value1)
+print(value1,value2,.....)
+
+a=10
+print(a)
+
+a=10
+b="hello"
+c= 12.34
+
+print(a,b,c)
+
+.....................................................................................................
+
+Variable,Constant and Literal's in python:-
+.................................................................................................
+
+Variable is used to store the data using identifier(name of variable)
+
+
+a=10;
+
+a is the variable which contain 10 as a integer data and a itself is identifier.
+
+a="hello"
+
+a=12
+
+python variable is more flexible as compare to other languages
+
+1 no need to declare data type because datatype will be managed by assigned data.
+
+   a=10  //integer
+    a=12.3 //float
+    a="a" //string
+     a=true //bool
+     a='a' //string
+
+
+ 2 one variable can assign multiple type data
+      a=10
+      a="hello"
+
+
+  3 single line assignment for multiple variables
+
+     a,b,c = 1,"hello",hi
+
+
+2 Constant :-
+
+   Constant means fixed value in complete program.
+
+    PI = 3.14;
+
+    Constant value always will be assigned in program and it will be declated in UPPER CASE
+
+
+3 Literals:-
+
+    Constant assigned value is called Literal
+
+      PI = 3.14     3.14 is literal
+
+..............................................................................................................
+Q1  WAP to SWAP two number?
+
+Q2 WAP to calculate Area of Circle?
+
+Q3 WAP to Reverse Three Digit Number?
+
+      134   output 431
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
