@@ -1,0 +1,123 @@
+Conditional Statement in Python or decision making statement:-
+.......................................................................................................
+
+
+this statement is used to solve condition based problem using if,else if and else block.
+
+if block will execute when condition will true .else block is just opposite of if block.
+
+else if block will be used when multiple condition will be impelmented in a single program.
+
+
+WAP to increase salary of employee from 500 if entered salary is >10000 otherwise increase salary from 8% of current salary
+
+WAP to check greater number?
+....................................................................................
+WAP to check that entered number is even or odd?
+
+
+
+type of if--else statement
+
+1 simple if:-
+
+if condition:
+  statements
+
+
+2 multiple if
+ if condition:
+   statements
+if condition:
+   statements
+....
+...
+
+3 if--else
+if condition:
+   statements
+else:
+   statements;
+
+
+
+4 nested if--else
+
+  we can write more than one if--else statement in nested sequence.
+
+if condition:
+    if condition:
+        statements
+    else
+       statements
+
+else
+     if condition:
+        statements
+     else
+        statements
+
+
+WAP to check greatest number?
+a=10
+b=20
+c=30
+
+
+
+
+
+  
+nested block always will be prefered when we want to discard logical operator.
+
+WAP to calculate greatest number without using logical operator?
+
+
+when multiple conditions apply in single program than nested block has complex structure hence elif block has implemented.
+
+
+if  condition:
+    statement
+
+elif condition:
+    statement
+
+elif condition:
+    statement
+...
+else:
+   statement
+
+5
+
+Q1 WAP to check divisibility of number from 3 ,5 and 9 with all combination?
+
+
+Q2 WAP to check vowel and consonent without using logical operator?
+
+Q3 WAP to find max element using four different number using without logical operator.
+
+Q4 WAP to display that user is entering aphabets,numeric or special char
+
+Q5 WAP to create marksheet of 12 th class student using following condition
+
+display result (pass,fail,supp) and display percentage.
+
+
+ 
+ 
+
+
+
+
+  
+  
+
+
+
+ 
+
+
+
+
+
