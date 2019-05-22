@@ -1,0 +1,155 @@
+Datatype concept in Python:-
+........................................................................................
+
+datatype is used to represent pattern of data and size of data in memory.
+
+python manage datatype automatically according to assigned data.
+
+
+a=10; //a is the integer type
+
+a=12.34 //a will be float type
+
+a=True  //a will be boolean type
+...........................................................................................................
+
+
+Type of Datatype in Python:-
+
+1 Primary data type:-
+
+  int       a=1
+
+  float  a=12.3
+ 
+  String   a= "hello"
+
+  boolean   a=True
+
+
+2 Composite Data type:-
+  this type datatype contain more than one elements using single variable.
+
+
+    List
+
+    Tuple
+
+    Dictionary
+
+     Object
+
+...........................................................................................................
+    
+Operator Concept in Python:-
+....................................................................................................
+it is used to perform operation using variable and constant.
+
+Operator is used to solve mathmatical,conditional and logical expression.
+
+
+type of operator 
+
+
+1 Arithmatic:- 
+
+  +  Add
+   -  Substraction
+   *  Multiplication
+   /   Division
+  //  Divison without Fractional part
+
+ %   it is used to return remainder after division
+
+   
+2 Conditional:-
+
+   <   Less than
+   >   Greater than
+   <=  Less than equall to
+   >=  Greater than equall to
+   !=   NOT Equall to
+   ==  Equall
+
+
+3   Logical
+
+     And  :-
+
+      a>2 and a<5
+
+      and operator will return true when all conditions will be true     
+
+
+    Or  :-
+
+     a>2 or a<5
+
+     or operator will return true when only one condition will be true.    
+
+
+   Not:-
+
+    this operator is just opposite of true condition and convert to flase
+
+       NOT(a>2 and a<5)
+
+    
+
+4 Assignment operator:-
+
+    this operator is used to assign value of variable and constant
+
+     simple    a=2
+
+     complex  a+=2,a*=5,a/=3
+                      
+
+     a+=2 or a=a+2
+     a*=5 or a=a*5
+
+
+  5 identity operator:-
+      is             it is used to compare two list object .if equall than return true otherwise false
+      is not      it is used to compare  list object.if equll than return false otheriwse true.
+
+
+   6   Search Operator:-
+
+       IN  :-  it will search element from LIST .if element found than return true otheriwise false
+
+
+      NOT IN
+
+     
+   7 Range operator .. : this operator is used to provide range from list element
+
+       [1..5]
+
+
+
+.....................................................................................................
+
+
+1 WAP to reverse five digit number?
+
+2 WAP to calculate area of rectangle?
+
+3 WAP to create salary calculator where basic ,ta,da,comm,pf,number of leave will be entered by the user?
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+

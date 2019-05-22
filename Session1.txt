@@ -1,0 +1,117 @@
+what is python?
+............................
+
+it is script based language which will be executed by python interpretar.
+
+python script provide simple syntax structure,light-weight code and best in performance as compare to other script based language.
+
+...........................................................................................................
+
+Type of application of Python:-
+....................................................................................
+
+1 Desktop application:-
+
+  1.1 CUI:-    Command user or char user interface.
+
+                   
+
+  1.2 GUI:-   Graphical User Interface
+
+                     TKInter Framework 
+
+
+
+2  Web Application:-
+
+                    Django Framework
+
+
+
+3 Mobile Application:-
+       
+                    we can create Hybrid Mobile Application using Python.
+                   
+                     KIVY Framework
+
+
+4 Data Science and Data Analytics:-
+
+           Matplotlib
+           NuMpy
+           Scipy
+           etc.
+
+
+5 Machine Learning,Deep Learning with AI
+
+
+6  IOT (Internet of things)
+
+
+7 Device Driver:-  O/S Driver 
+
+
+8 Cloud Application:-  
+
+   python work on any cloud platform.
+   AWS
+   Microsoft
+   Google
+   SalesForce
+
+..................................................................................................
+
+Software Tools for Python:-
+
+1   Python software package 
+
+            Python Shell
+            Python IDLE
+
+
+2  Jupiter
+
+3 Spider
+
+4 Anaconda
+
+5 Visual Studio
+
+6 Sublime
+............................................................................................................
+Installation of Python:-
+
+download python by python.org
+
+it provide .exe file ,double click on this file and install
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+  
+
+
+
+                    
+
+
+   
+

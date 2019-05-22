@@ -1,5 +1,5 @@
 num = int(input("enter number to revese "))   #467
-a = num%10  #7
+a = num%10  #7   #% means modules it return rem
 num = num//10  #46
 b = num%10   #6
 c = num//10   #4
