@@ -1,7 +1,8 @@
-num = int(input("enter number to revese "))   #467
-a = num%10  #7   #% means modules it return rem
-num = num//10  #46
-b = num%10   #6
-c = num//10   #4
-res = a*100+b*10+c*1
-print("After reverse result is ",res)
+a=456
+print("Actual number is ",a)
+a1 = a%10 #6
+a=a//10 #45.6
+a2 = a%10 #5
+a3 = int(a/10) #4
+num = a1*100+a2*10+a3*1
+print("Reverse number is ",num)

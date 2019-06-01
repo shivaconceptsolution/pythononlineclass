@@ -1,141 +1,127 @@
-Datatype concept in Python:-
-........................................................................................
+Input and Output Function in Python:-
 
-datatype is used to represent pattern of data and size of data in memory.
+python provide two different method for input and output
 
-python manage datatype automatically according to assigned data.
+var = input("message")
+
+this method return String type data.if we want to take input for numeric data than we can use type conversion.
+
+var = int(input("message"))  #integer 
+
+var = float(input("message")) #float
+
+...................................................................................
+
+print():-
+
+this method is used to display output data.
+
+print(data)
+print(data1,data2,.....)
+..............................................................................................................
+
+Datatype in python:-
+...............................................................................................
+
+it is used to represent pattern and size of data in memory.
+python manage different type of data using single variable hence no need to declare data type in program.
 
 
-a=10; //a is the integer type
+int a=10 //c declaration 
 
-a=12.34 //a will be float type
+a=10 //python declaration
 
-a=True  //a will be boolean type
+a="hello"
+
+a=12.345
+
+type of data type:-
+
+1  Primary data type:-
+
+    int  ---------> 4byte   a=10
+
+   float  --------> 8byte   a=1.2
+
+   String ------->  number of char  a="hello"
+
+   char  ---------> 2byte     a=chr(65)
+
+   bool  ----------> 1bit     a=True
+
+2 Composite data type:-
+
+   LIST  :-  it is used to contain multiple elements using proper sequence.
+   TUPLE:-  it is also used to contain multiple elements but element can not be modify dynamically
+   DICTIONARY:- it is used to contain data using key=>value pair
+   OBJECT:-  it provide dynamic memory to store class ,instance type data
+
+..........................................................................................................
+
+Variable ,Constant and Literals:-
+..............................................................................................................
+variable means to change value of identifier dynamically by user's.
+
+a=input("enter number")
+
+a is the identifier whose value can be change dynamically
+
+constant means if we can not change the value of identifier dynamically .constant value always will be defined in program.
+
+PI=3.14
+
+
+Literals:-
+
+values of constant is called Literals
+
+A=10 # 1o is the literal
+
 ...........................................................................................................
 
-
-Type of Datatype in Python:-
-
-1 Primary data type:-
-
-  int       a=1
-
-  float  a=12.3
- 
-  String   a= "hello"
-
-  boolean   a=True
+ASSIGNMENT:-
 
 
-2 Composite Data type:-
-  this type datatype contain more than one elements using single variable.
+
+WAP to calculate NET SALARY,GROSS SALARY of Employee where basic,ta,da,comm,pf,HRA,Leave,Advance Salary will be entered by the user?
 
 
-    List
+WAP to perform addition and multiplication of complex number?
 
-    Tuple
+2+3i
+4+5i
+...................
+6+8i
 
-    Dictionary
-
-     Object
-
-...........................................................................................................
-    
-Operator Concept in Python:-
-....................................................................................................
-it is used to perform operation using variable and constant.
-
-Operator is used to solve mathmatical,conditional and logical expression.
+..................................................................................................
+WAP to calculate electricy bill where unit price ,total consumption,load amount,previous bill,security amount will be entered by the user display total bill and bill after last date.
 
 
-type of operator 
 
 
-1 Arithmatic:- 
-
-  +  Add
-   -  Substraction
-   *  Multiplication
-   /   Division
-  //  Divison without Fractional part
-
- %   it is used to return remainder after division
-
-   
-2 Conditional:-
-
-   <   Less than
-   >   Greater than
-   <=  Less than equall to
-   >=  Greater than equall to
-   !=   NOT Equall to
-   ==  Equall
 
 
-3   Logical
-
-     And  :-
-
-      a>2 and a<5
-
-      and operator will return true when all conditions will be true     
 
 
-    Or  :-
-
-     a>2 or a<5
-
-     or operator will return true when only one condition will be true.    
 
 
-   Not:-
-
-    this operator is just opposite of true condition and convert to flase
-
-       NOT(a>2 and a<5)
-
-    
-
-4 Assignment operator:-
-
-    this operator is used to assign value of variable and constant
-
-     simple    a=2
-
-     complex  a+=2,a*=5,a/=3
-                      
-
-     a+=2 or a=a+2
-     a*=5 or a=a*5
 
 
-  5 identity operator:-
-      is             it is used to compare two list object .if equall than return true otherwise false
-      is not      it is used to compare  list object.if equll than return false otheriwse true.
 
 
-   6   Search Operator:-
-
-       IN  :-  it will search element from LIST .if element found than return true otheriwise false
 
 
-      NOT IN
+
+
+
+
+
+
+
+
+
 
      
-   7 Range operator .. : this operator is used to provide range from list element
-
-       [1..5]
-
-
-
-.....................................................................................................
-
-
-1 WAP to reverse five digit number?
-
-2 WAP to calculate area of rectangle?
-
-3 WAP to create salary calculator where basic ,ta,da,comm,pf,number of leave will be entered by the user?
 
 
 
@@ -144,7 +130,19 @@ type of operator
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
